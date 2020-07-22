@@ -1,5 +1,5 @@
 # Hi 👋, I'm Charlotte Qian
-<h3 align="center">A passionate Data Engineer from New York</h3>
+### A passionate Data Engineer from New York
 
 - 🔭 I’m currently working on Data Warehousing, Django
 
