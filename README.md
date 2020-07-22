@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Charlotte Qian</h1>
 <h3 align="center">A passionate Data Engineer from New York</h3>
-#### 🔭 I’m currently working on Data Warehousing, Django
+####  🔭 I’m currently working on Data Warehousing, Django
 
 #### 📫 Reach me **charlotte.qian12@gmail.com**
 
