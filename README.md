@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Charlotte Qian</h1>
+# Hi 👋, I'm Charlotte Qian
 <h3 align="center">A passionate Data Engineer from New York</h3>
 
 - 🔭 I’m currently working on Data Warehousing, Django
