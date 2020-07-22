@@ -1,4 +1,4 @@
-# Hi 👋, I'm Charlotte Qian
+# Hi, I'm Charlotte Qian 🌸
 ### A passionate Data Engineer from New York
 
 - 🔭 I’m currently working on Data Warehousing, Django
